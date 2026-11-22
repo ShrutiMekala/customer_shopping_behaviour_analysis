@@ -32,6 +32,9 @@ Analysed 3,900 retail transactions to understand customer purchasing patterns, s
 - Power BI Dashboard
 - Dataset
 
+##Screenshot of the Dashboard
+<img width="916" height="494" alt="image" src="https://github.com/user-attachments/assets/4cc53829-d05f-4108-9da3-54b7d09097e7" />
+
 ## Author
 **Shruti Mekala**  
 B.Sc. Computer Science  
